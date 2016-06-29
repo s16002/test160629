@@ -1,0 +1,10 @@
+[   34.702587] cfg80211:   (59000000 KHz - 66000000 KHz @ 2160000 KHz), (N/A, 1000 mBm), (N/A)
+[   35.132025] vboxdrv: module verification failed: signature and/or required key missing - tainting kernel
+[   35.146799] vboxdrv: Found 2 processor cores
+[   35.174756] vboxdrv: TSC mode is Invariant, tentative frequency 1599949163 Hz
+[   35.174762] vboxdrv: Successfully loaded version 5.0.18_Ubuntu (interface 0x00240000)
+[   35.222050] VBoxNetFlt: Successfully started.
+[   35.250524] VBoxNetAdp: Successfully started.
+[   35.266226] VBoxPciLinuxInit
+[   35.288252] vboxpci: IOMMU not found (not registered)
+[ 2326.397745] perf interrupt took too long (2506 > 2500), lowering kernel.perf_event_max_sample_rate to 50000
